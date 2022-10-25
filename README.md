@@ -15,7 +15,7 @@
 ## ⚡ Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,react,redux,css,docker,mysql,git,github,nodejs,bootstrap"></img>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,react,redux,css,docker,mysql,git,github,nodejs,bootstrap"></img>
   
 </div>
   
@@ -23,6 +23,11 @@
 
 ## 📈 Statistics
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gcosta33&theme=dracula)](https://git.io/streak-stats)
+
+</div>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=gcosta33&show_icons=true&theme=merko"></img>
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcosta33&layout=compact&theme=merko"></img>
