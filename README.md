@@ -23,14 +23,11 @@
 
 ## 📈 Statistics
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gcosta33&theme=dracula)](https://git.io/streak-stats)
 
-</div>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=gcosta33&show_icons=true&theme=merko"></img>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=gcosta33&count_private=true&show_icons=true&theme=dracula"></img>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcosta33&layout=compact&theme=merko"></img>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcosta33&hide=html&count_private=true&layout=compact&exclude_repo=intensivo_python&theme=dracula"></img>
 
 
 
