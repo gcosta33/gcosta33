@@ -40,5 +40,16 @@
 <a href="mailto:guilherme3394@gmail.com"> 
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  <a/>
-<br><br>
+  </p>
 </div>
+
+<div align="center">
+  <p>
+ <a href="mailto:guilherme3394@gmail.com"> 
+	<img src="https://komarev.com/ghpvc/?username=gcosta33&style=for-the-badge&color=blueviolet" />
+ <a/>
+ </p>
+</div>
+
+
+ 
